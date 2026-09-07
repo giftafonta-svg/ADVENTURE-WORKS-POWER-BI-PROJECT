@@ -15,4 +15,4 @@ Features
  Key Insight
 Bikes dominate sales and budget; Accessories/Clothing are underdeveloped. US & Australia drive most sales, while France and Canada lag. Tax spiked notably in 2016.
 
-!{Dashboard}.(PowerBI Dashboard.png)
+!{Dashboard}.[PowerBI Dashboard.png]
